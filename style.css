@@ -156,6 +156,18 @@ body {
 .history-container button:hover {
   background-color: #0056b3;
 }
+.footer {
+  margin-top: 40px;
+  padding: 15px 0;
+  text-align: center;
+  color: white;
+  font-size: 0.9rem;
+  background-color: #252424;
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  bottom: 0;
+}
 
 /* Random positions and rotations */
 .bg-symbols span:nth-child(1)  { top: 10%; left: 15%; --rotate: 15; }
