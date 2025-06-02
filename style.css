@@ -136,10 +136,11 @@ body {
 }
 
 #history-list li {
-  font-size: 0.95rem;
-  margin-bottom: 5px;
-  border-bottom: 1px dashed #ccc;
-  padding-bottom: 5px;
+    font-size: 0.95rem;
+    color: white;
+    margin-bottom: 5px;
+    border-bottom: 1px dashed #7c7979;
+    padding-bottom: 5px;
 }
 
 .history-container button {
